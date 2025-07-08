@@ -1,16 +1,16 @@
-<!-- 📌 Banner Image ![ab](https://github.com/user-attachments/assets/d38a78ce-1f13-40aa-bc59-b925d2c02ae1) -->
+<!-- 👨‍💻 Banner Section -->
 <p align="center">
-  <img src="https://i.imgur.com/q8FzN5M.png" alt="Sushil Bhosale Banner" width="100%">
+  <img src="ab.jpg" alt="Sushil Bhosale Banner" width="100%">
 </p>
 
 ---
 
 # 👋 Hi, I'm Sushil Bhosale
 
-💻 Java Developer | ☁️ Backend Learner | 📸 Photographer
+💻 Java Developer | 📸 Photographer | ☁️ Backend Learner
 
-I'm a backend developer currently focused on building real-world Java applications using Spring Boot and MySQL.  
-Also a photography enthusiast who loves capturing life through the lens.  
+I'm a backend developer currently working on real-world Java projects.  
+I’m passionate about building REST APIs using Spring Boot and expressing creativity through photography.
 
 ---
 
@@ -25,12 +25,12 @@ Also a photography enthusiast who loves capturing life through the lens.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushilbhosale&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilbhosale&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sushilbhosale&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilbhosale&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sushilbhosale&theme=tokyonight&hide_border=false" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=sushilbhosale&theme=tokyonight&hide_border=false" width="70%" />
 </p>
 
 ---
@@ -43,22 +43,22 @@ Also a photography enthusiast who loves capturing life through the lens.
 
 ---
 
-## 📸 Latest Projects
+## 📂 Projects
 
 | Project Name              | Description                              |
 |---------------------------|------------------------------------------|
-| Java Calculator           | Simple CLI calculator in Java            |
-| Photography Portfolio     | Web portfolio for displaying your photos |
-| Okey Language             | Dummy programming language project       |
+| Java Calculator           | Simple CLI calculator built in Java      |
+| Photography Portfolio     | Web-based portfolio to showcase photos   |
+| Okey Language             | Custom experimental programming language |
 
 ---
 
 ## 📚 Currently Learning
 
-- 🔐 Spring Security + JWT
-- ☁️ Deploying Java apps to AWS
-- 🧠 Data Structures & Algorithms
-- 📸 Pro-level portrait photography
+- 🔐 Spring Security & JWT  
+- ☁️ Deploying Spring Boot to AWS  
+- 🧠 DSA for coding interviews  
+- 📸 Portrait & street photography tips
 
 ---
 
@@ -75,7 +75,6 @@ Also a photography enthusiast who loves capturing life through the lens.
 
 ---
 
-## 💡 Thought of the Day
+## 💬 Thought of the Day
 
-> "Your most unhappy customers are your greatest source of learning." — Bill Gates
-
+> _"Success is not final, failure is not fatal: It is the courage to continue that counts."_ – Winston Churchill
