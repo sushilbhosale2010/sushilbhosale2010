@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Sushil Bhosale
 
-💻 Java Developer | 📸 Photographer | ☁️ Backend Learner
+💻 Java Developer | ☁️ Backend Learner
 
 I'm a backend developer currently working on real-world Java projects.  
 I’m passionate about building REST APIs using Spring Boot and expressing creativity through photography.
